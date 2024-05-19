@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio\\Projects\\Hotel Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|solutionrelative:Hotel Management\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Payment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|solutionrelative:Hotel Management\\Payment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Billing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|solutionrelative:Hotel Management\\Billing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\FoodItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|solutionrelative:Hotel Management\\FoodItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\OrderItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|solutionrelative:Hotel Management\\OrderItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Staff.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|solutionrelative:Hotel Management\\Staff.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|solutionrelative:Hotel Management\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Reservation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|solutionrelative:Hotel Management\\Reservation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Guest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|solutionrelative:Hotel Management\\Guest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|solutionrelative:Hotel Management\\Room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Hotel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E51E0FA9-15C3-455E-A93D-509F0E13D229}|Hotel Management\\Hotel Management.vcxproj|solutionrelative:Hotel Management\\Hotel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Main.cpp",
+              "RelativeDocumentMoniker": "Hotel Management\\Main.cpp",
+              "ToolTip": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Main.cpp",
+              "RelativeToolTip": "Hotel Management\\Main.cpp",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAAJgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T10:09:42.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hotel.h",
+              "DocumentMoniker": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Hotel.h",
+              "RelativeDocumentMoniker": "Hotel Management\\Hotel.h",
+              "ToolTip": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Hotel.h",
+              "RelativeToolTip": "Hotel Management\\Hotel.h",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-18T10:09:16.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Room.h",
+              "DocumentMoniker": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Room.h",
+              "RelativeDocumentMoniker": "Hotel Management\\Room.h",
+              "ToolTip": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Room.h",
+              "RelativeToolTip": "Hotel Management\\Room.h",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-18T10:08:30.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Guest.h",
+              "DocumentMoniker": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Guest.h",
+              "RelativeDocumentMoniker": "Hotel Management\\Guest.h",
+              "ToolTip": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Guest.h",
+              "RelativeToolTip": "Hotel Management\\Guest.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-18T10:07:31.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reservation.h",
+              "DocumentMoniker": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Reservation.h",
+              "RelativeDocumentMoniker": "Hotel Management\\Reservation.h",
+              "ToolTip": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Reservation.h",
+              "RelativeToolTip": "Hotel Management\\Reservation.h",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-18T10:06:20.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inventory.h",
+              "DocumentMoniker": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Inventory.h",
+              "RelativeDocumentMoniker": "Hotel Management\\Inventory.h",
+              "ToolTip": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Inventory.h",
+              "RelativeToolTip": "Hotel Management\\Inventory.h",
+              "ViewState": "AQIAACYAAAAAAAAAAAAUwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-18T10:04:27.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Staff.h",
+              "DocumentMoniker": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Staff.h",
+              "RelativeDocumentMoniker": "Hotel Management\\Staff.h",
+              "ToolTip": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Staff.h",
+              "RelativeToolTip": "Hotel Management\\Staff.h",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-18T10:03:06.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItem.h",
+              "DocumentMoniker": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\OrderItem.h",
+              "RelativeDocumentMoniker": "Hotel Management\\OrderItem.h",
+              "ToolTip": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\OrderItem.h",
+              "RelativeToolTip": "Hotel Management\\OrderItem.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAUwB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-18T10:00:06.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FoodItem.h",
+              "DocumentMoniker": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\FoodItem.h",
+              "RelativeDocumentMoniker": "Hotel Management\\FoodItem.h",
+              "ToolTip": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\FoodItem.h",
+              "RelativeToolTip": "Hotel Management\\FoodItem.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-18T09:58:23.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Billing.h",
+              "DocumentMoniker": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Billing.h",
+              "RelativeDocumentMoniker": "Hotel Management\\Billing.h",
+              "ToolTip": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Billing.h",
+              "RelativeToolTip": "Hotel Management\\Billing.h",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-18T09:56:58.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Payment.h",
+              "DocumentMoniker": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Payment.h",
+              "RelativeDocumentMoniker": "Hotel Management\\Payment.h",
+              "ToolTip": "D:\\Visual Studio\\Projects\\Hotel Management\\Hotel Management\\Payment.h",
+              "RelativeToolTip": "Hotel Management\\Payment.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-18T09:55:44.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
